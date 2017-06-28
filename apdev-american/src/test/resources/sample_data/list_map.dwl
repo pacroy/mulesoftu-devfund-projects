@@ -1,0 +1,29 @@
+%dw 1.0
+%output application/java
+---
+[{
+	AIRLINENAME: "American",
+	CODE1: "abc",
+	CODE2: "1234",
+	FROMAIRPORT: "LAX",
+	ID: 1,
+	PLANETYPE: "747",
+	PRICE: 1,
+	SEATSAVAILABLE: 1,
+	TAKEOFFDATE: |2003-10-01|,
+	TOAIRPORT: "CLE",
+	TOTALSEATS: 1
+},
+{
+	AIRLINENAME: "American",
+	CODE1: "abc",
+	CODE2: "1234",
+	FROMAIRPORT: "LAX",
+	ID: 1,
+	PLANETYPE: "747",
+	PRICE: 1,
+	SEATSAVAILABLE: 1,
+	TAKEOFFDATE: |2003-10-01|,
+	TOAIRPORT: "CLE",
+	TOTALSEATS: 1
+}]
